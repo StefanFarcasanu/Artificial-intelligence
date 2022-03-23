@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<travellingSalesmanProblemInstance>
+    <name>Small1_non_complete</name>
+    <graph>
+        <vertex>
+            <edge cost="2.400000000000000e+01">1</edge>
+            <edge cost="2.800000000000000e+01">3</edge>
+            <edge cost="1.000000000000000e+01">4</edge>
+        </vertex>
+        <vertex>
+            <edge cost="2.400000000000000e+01">0</edge>
+            <edge cost="9.000000000000000e+00">2</edge>
+            <edge cost="1.100000000000000e+01">3</edge>
+            <edge cost="3.000000000000000e+01">4</edge>
+        </vertex>
+        <vertex>
+            <edge cost="9.000000000000000e+00">1</edge>
+            <edge cost="8.000000000000000e+00">3</edge>
+        </vertex>
+        <vertex>
+            <edge cost="2.500000000000000e+01">0</edge>
+            <edge cost="1.100000000000000e+01">1</edge>
+            <edge cost="8.000000000000000e+00">2</edge>
+            <edge cost="2.800000000000000e+01">4</edge>
+        </vertex>
+        <vertex>
+            <edge cost="1.000000000000000e+01">0</edge>
+            <edge cost="3.000000000000000e+01">1</edge>
+            <edge cost="2.800000000000000e+01">3</edge>
+        </vertex>
+    </graph>
+</travellingSalesmanProblemInstance>
